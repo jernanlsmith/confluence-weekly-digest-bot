@@ -1,0 +1,1 @@
+# confluence-weekly-digest-bot
